@@ -3,6 +3,10 @@
 This repository provides prebuilt **Eclipse Temurin / OpenJDK** binaries for convenience.  
 It is intended for projects that require a stable JRE download link (e.g. JRE 8).
 
+These binaries are redistributed from Eclipse Temurin (https://adoptium.net/) 
+and licensed under GPLv2 with Classpath Exception.
+
+
 ## Versions
 
 - JRE 8 (recommended)  
@@ -11,3 +15,5 @@ It is intended for projects that require a stable JRE download link (e.g. JRE 8)
 ## Usage
 
 You can download the required JRE release directly from this repository's **Releases** page or from the provided directories.  
+
+
